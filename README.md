@@ -25,11 +25,11 @@ I'm a developer interested in **Linux systems**, **software architecture**, **fu
 
 **Languages & Web**
 
-<img src="https://skillicons.dev/icons?i=nix,ts,js,java,python,kotlin,c,html,css&theme=dark" alt="Nix, TypeScript, JavaScript, Java, Python, Kotlin, C, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=nix,ts,js,java,python,c,html,css&theme=dark" alt="Nix, TypeScript, JavaScript, Java, Python, C, HTML and CSS" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,postgres,vite,gradle&theme=dark" alt="Linux, Git, GitHub, PostgreSQL, Vite and Gradle" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,postgres&theme=dark" alt="Linux, Git, GitHub and PostgreSQL" />
 
 </div>
 
