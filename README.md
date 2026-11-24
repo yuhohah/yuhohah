@@ -1,4 +1,4 @@
-# ![Luan](assets/capa.png)
+# ![Luan](https://raw.githubusercontent.com/yuhohah/yuhohah/9a6272ac20057655ab1bbb4de1937d9276f3fd29/assets/capa.png)
 
 <!-- Fundo da capa: https://github.com/yuhohah/nixos/blob/main/images/wallpaper/1347180.png -->
 
