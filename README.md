@@ -1,6 +1,6 @@
 # ![Luan](assets/capa.png)
 
-<!-- Fundo da capa: https://github.com/yuhohah/nixos/blob/main/images/wallpaper/1347180.jpg -->
+<!-- Fundo da capa: https://github.com/yuhohah/nixos/blob/main/images/wallpaper/1347180.png -->
 
 Gosto de entender o software que uso todos os dias. No Linux, isso me levou a descrever meu desktop em Nix. Nos meus projetos, exploro como os dados passam pela interface, onde ficam guardados e o que acontece quando alguém volta a abrir o aplicativo.
 
@@ -8,7 +8,7 @@ Gosto de entender o software que uso todos os dias. No Linux, isso me levou a de
 
 Uso a mesma base de configuração no desktop e no notebook. Os módulos em Nix guardam o que as duas máquinas têm em comum. No ambiente gráfico, o Hyprland organiza as janelas e o Quickshell desenha os painéis em QML.
 
-[![Desktop NixOS com várias janelas abertas e a barra do Quickshell](https://raw.githubusercontent.com/yuhohah/nixos/main/images/system/image7.png)](https://github.com/yuhohah/nixos/blob/main/images/system/image7.png)
+[![Desktop NixOS com várias janelas abertas e a barra do Quickshell](https://raw.githubusercontent.com/yuhohah/nixos/main/images/system/image7.png)](https://github.com/yuhohah/nixos/blob/main/images/system/Image7.png)
 
 **[Explorar a configuração →](https://github.com/yuhohah/nixos)**
 
