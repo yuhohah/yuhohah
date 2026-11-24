@@ -1,111 +1,29 @@
-<div align="center">
+# ![Luan](assets/capa.png)
 
-# Luan de Paula Mota
+<!-- Fundo da capa: https://github.com/yuhohah/nixos/blob/main/images/wallpaper/226711.jpg -->
 
-**Software Development · Linux & NixOS · Full-Stack**
+Gosto de entender o software que uso todos os dias. No Linux, isso me levou a descrever meu desktop em Nix. Nos meus projetos, exploro como os dados passam pela interface, onde ficam guardados e o que acontece quando alguém volta a abrir o aplicativo.
 
-<sub>Building reliable systems, experimenting with ideas, and learning through code.</sub>
+## Meu desktop em NixOS
 
-<br/><br/>
+Uso a mesma base de configuração no desktop e no notebook. Os módulos em Nix guardam o que as duas máquinas têm em comum. No ambiente gráfico, o Hyprland organiza as janelas e o Quickshell desenha os painéis em QML.
 
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuhohah)
-[![Repositories](https://img.shields.io/badge/Explore_Projects-282828?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuhohah?tab=repositories)
+[![Desktop NixOS com várias janelas abertas e a barra do Quickshell](https://raw.githubusercontent.com/yuhohah/nixos/main/images/system/image6.png)](https://github.com/yuhohah/nixos/blob/main/images/system/image6.png)
 
-</div>
+**[Explorar a configuração →](https://github.com/yuhohah/nixos)**
 
----
+## Projetos selecionados
 
-### About me
+| Projeto | O que construí |
+| :--- | :--- |
+| **[Cult of the Sphere](https://github.com/yuhohah/wmdg)** | Um jogo incremental em que cada clique gera Fé para recrutar fiéis e expandir um santuário. Feito com TypeScript e Vite. |
+| **[Tarot-Game](https://github.com/yuhohah/Tarot-Game)** | Um baralho de tarô em Python com interface Tkinter. O embaralhamento usa números aleatórios de origem quântica. |
+| **[Full-Stack Docnix](https://github.com/yuhohah/Treinamento-Full-Stack-Docnix)** | Um projeto de estudo que parte de um formulário de cadastro e chega a uma API REST em Java, com Hibernate e PostgreSQL. |
 
-I'm a developer interested in **Linux systems**, **software architecture**, **full-stack development**, and the details that make software reliable and maintainable. I enjoy configuring my development environment, exploring new technologies, and turning ideas into working projects.
+## Tecnologias que uso
 
-### Tech stack
+**Sistemas e ferramentas** · Nix, Linux, Git e GitHub  
+**Web e aplicações** · TypeScript, JavaScript, HTML, CSS, Java, Kotlin e PostgreSQL  
+**Scripts e algoritmos** · Python e C
 
-<div align="center">
-
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=nix,ts,js,java,python,c,html,css&theme=dark" alt="Nix, TypeScript, JavaScript, Java, Python, C, HTML and CSS" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,postgres&theme=dark" alt="Linux, Git, GitHub and PostgreSQL" />
-
-</div>
-
-### Featured project
-
-<table>
-<tr><td>
-
-#### ❄️ [NixOS — Declarative System Configuration](https://github.com/yuhohah/nixos)
-
-My modular and reproducible **NixOS configuration**, designed for a customizable Linux workstation. Includes a **Hyprland** desktop, **Quickshell** interface, multi-host organization, and tooling for development and local AI workloads.
-
-`Nix` · `NixOS` · `Hyprland` · `Quickshell` · `Linux`
-
-**[Explore the configuration →](https://github.com/yuhohah/nixos)**
-
-</td></tr>
-</table>
-
-### Other selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Cult of the Sphere](https://github.com/yuhohah/wmdg)**
-
-An incremental idle game featuring interconnected progression systems, resource management, and persistence.
-
-`TypeScript` · `Vite` · `Vitest`
-
-</td>
-<td width="50%" valign="top">
-
-**[Full-Stack Training](https://github.com/yuhohah/Treinamento-Full-Stack-Docnix)**
-
-Full-stack development exercises spanning interfaces, Java services, relational databases, and REST APIs.
-
-`Java` · `PostgreSQL` · `Hibernate` · `REST`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Tarot-Game](https://github.com/yuhohah/Tarot-Game)**
-
-A Python tarot card application built with Tkinter, exploring quantum random number generation for deck shuffling.
-
-`Python` · `Tkinter` · `QRNG`
-
-</td>
-<td width="50%" valign="top">
-
-**[Gastos](https://github.com/yuhohah/Gastos)**
-
-An Android expense-tracking application using a modern declarative UI and local on-device storage.
-
-`Kotlin` · `Jetpack Compose` · `Room`
-
-</td>
-</tr>
-</table>
-
-### GitHub activity
-
-<div align="center">
-
-![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=yuhohah&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&area=true&area_color=30363d)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Curiosity, consistency and continuous improvement.</sub>
-
-</div>
+[Todos os repositórios ↗](https://github.com/yuhohah?tab=repositories) · [Atividade no GitHub ↗](https://github.com/yuhohah)
