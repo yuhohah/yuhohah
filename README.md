@@ -23,7 +23,7 @@ Uso a mesma base de configuração no desktop e no notebook. Os módulos em Nix 
 ## Tecnologias que uso
 
 **Sistemas e ferramentas** · Nix, Linux, Git e GitHub  
-**Web e aplicações** · TypeScript, JavaScript, HTML, CSS, Java, Kotlin e PostgreSQL  
+**Web e aplicações** · TypeScript, JavaScript, HTML, CSS, Java e PostgreSQL  
 **Scripts e algoritmos** · Python e C
 
 [Todos os repositórios ↗](https://github.com/yuhohah?tab=repositories) · [Atividade no GitHub ↗](https://github.com/yuhohah)
